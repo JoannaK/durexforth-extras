@@ -52,4 +52,4 @@ hex
 : testy5 200 0 do rnd 100/ $f and . loop ; 
 decimal 
 
-\ LFSR comes later.. 
+\ LFSR comes later..  
